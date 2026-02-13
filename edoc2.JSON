@@ -1,0 +1,421 @@
+{
+    "admin": [
+      {
+        "aemail": "admin@edoc.com",
+        "aname": "",
+        "apassword": "123"
+      }
+    ],
+    "appointment": [
+      {
+        "appoid": 1,
+        "pid": 19,
+        "apponum": 1,
+        "scheduleid": 1,
+        "appodate": "2024-08-17"
+      },
+      {
+        "appoid": 2,
+        "pid": 19,
+        "apponum": 1,
+        "scheduleid": 2,
+        "appodate": "2024-08-17"
+      },
+      {
+        "appoid": 3,
+        "pid": 23,
+        "apponum": 2,
+        "scheduleid": 2,
+        "appodate": "2024-08-18"
+      },
+      {
+        "appoid": 4,
+        "pid": 24,
+        "apponum": 3,
+        "scheduleid": 2,
+        "appodate": "2024-08-19"
+      },
+      {
+        "appoid": 5,
+        "pid": 42,
+        "apponum": 4,
+        "scheduleid": 2,
+        "appodate": "2024-08-20"
+      }
+    ],
+    "archive": [],
+    "bookings": [],
+    "conditions": [
+    { "condition_id": 1, "condition_name": "Anxiety" },
+    { "condition_id": 2, "condition_name": "Depression" },
+    { "condition_id": 3, "condition_name": "Bipolar Disorder" },
+    { "condition_id": 4, "condition_name": "Schizophrenia" },
+    { "condition_id": 5, "condition_name": "Obsessive-Compulsive Disorder (OCD)" },
+    { "condition_id": 6, "condition_name": "Post-Traumatic Stress Disorder (PTSD)" },
+    { "condition_id": 7, "condition_name": "Attention-Deficit/Hyperactivity Disorder (ADHD)" },
+    { "condition_id": 8, "condition_name": "Eating Disorders" },
+    { "condition_id": 9, "condition_name": "Borderline Personality Disorder" },
+    { "condition_id": 10, "condition_name": "Autism Spectrum Disorder" },
+    { "condition_id": 11, "condition_name": "Panic Disorder" },
+    { "condition_id": 12, "condition_name": "Social Anxiety Disorder" },
+    { "condition_id": 13, "condition_name": "Generalized Anxiety Disorder (GAD)" },
+    { "condition_id": 14, "condition_name": "Seasonal Affective Disorder" },
+    { "condition_id": 15, "condition_name": "Substance Use Disorder" }
+  ],
+    "doctor": [
+      {
+        "docid": 2,
+        "docemail": "doctor@edoc.com",
+        "docname": "Gabriel",
+        "docpassword": "123",
+        "docnic": "123",
+        "doctel": "09572341231",
+        "specialties": 23
+      },
+      {
+        "docid": 3,
+        "docemail": "doctor1@edoc.com",
+        "docname": "GAb",
+        "docpassword": "$2y$10$PIz8wGdF307VNP35LKCYoeG0Zd8TZ8NrEG28JRGLaK.xLJHmwFAM6",
+        "docnic": "123",
+        "doctel": "09572341231",
+        "specialties": 23
+      }
+    ],
+    "it": [
+      {
+        "itEmail": "it@edoc.com",
+        "itPassword": "123"
+      }
+    ],
+    "login_attempts": [
+      {
+        "id": 1,
+        "aemail": "doctor1@edoc.com",
+        "attempt_time": "2024-08-17 10:55:31"
+      },
+      {
+        "id": 2,
+        "aemail": "patient3@edoc.com",
+        "attempt_time": "2024-08-17 11:01:28"
+      },
+      {
+        "id": 3,
+        "aemail": "patient555@edoc.com",
+        "attempt_time": "2024-08-19 07:29:38"
+      },
+      {
+        "id": 4,
+        "aemail": "patien5555@edoc.com",
+        "attempt_time": "2024-08-19 07:29:52"
+      },
+      {
+        "id": 5,
+        "aemail": "patient3@edoc.com",
+        "attempt_time": "2024-08-20 04:38:31"
+      },
+      {
+        "id": 6,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:30:14"
+      },
+      {
+        "id": 7,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:31:33"
+      },
+      {
+        "id": 8,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:31:39"
+      },
+      {
+        "id": 9,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:35:27"
+      },
+      {
+        "id": 10,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:35:30"
+      },
+      {
+        "id": 11,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:36:25"
+      },
+      {
+        "id": 12,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:36:28"
+      },
+      {
+        "id": 13,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:36:30"
+      },
+      {
+        "id": 14,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:38:58"
+      },
+      {
+        "id": 15,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:39:01"
+      },
+      {
+        "id": 16,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:42:42"
+      },
+      {
+        "id": 17,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:42:45"
+      },
+      {
+        "id": 18,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:44:13"
+      },
+      {
+        "id": 19,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:44:16"
+      },
+      {
+        "id": 20,
+        "aemail": "it@edoc.com",
+        "attempt_time": "2024-08-20 05:44:18"
+      }
+    ],
+    "patient": [
+      {
+        "pid": 43,
+        "pemail": "patient41@edoc.com",
+        "pname": "aasd asd",
+        "pgender": "Female",
+        "ppassword": "$2y$10$zmnihSrrBKcmOyEmOa0UPOHXDo9EQNawNUbvp8ccNpBlWfjCVlR9G",
+        "pprovince": "Metro Manila",
+        "pcity": "Manila",
+        "pbrgy": "0",
+        "pdob": "2001-02-02",
+        "page": 23,
+        "ptel": "09123456782",
+        "pcivil": "Single",
+        "pcase": null,
+        "pcaseDesc": null,
+        "archived": 0
+      },
+      {
+        "pid": 44,
+        "pemail": "patient42@edoc.com",
+        "pname": "asd zxc",
+        "pgender": "Male",
+        "ppassword": "$2y$10$4Wvu1LeGoZFOW7BIuSMoP.a3xhBxnKzT8Cat5zFzjULfYm8jR71Xm",
+        "pprovince": "Cavite",
+        "pcity": "Tagaytay",
+        "pbrgy": "Calabuso",
+        "pdob": "2009-02-02",
+        "page": 15,
+        "ptel": "09123456781",
+        "pcivil": "Single",
+        "pcase": null,
+        "pcaseDesc": null,
+        "archived": 0
+      },
+      {
+        "pid": 45,
+        "pemail": "patient4111@edoc.com",
+        "pname": "asd zxc",
+        "pgender": "Male",
+        "ppassword": "$2y$10$LBao5RGhDpJGtkn038C9T.BIgsPBiXUZoAbfq8/oa4tPKQ3nUy9pK",
+        "pprovince": "Cavite",
+        "pcity": "Dasmariñas",
+        "pbrgy": "0",
+        "pdob": "2009-02-02",
+        "page": 15,
+        "ptel": "09123456781",
+        "pcivil": "Single",
+        "pcase": null,
+        "pcaseDesc": null,
+        "archived": 0
+      }
+    ],
+    "schedule": [
+      {
+        "scheduleid": 1,
+        "docid": "2",
+        "title": "Therapy",
+        "scheduledate": "2024-08-18",
+        "scheduletime": "08:00:00",
+        "nop": 10
+      },
+      {
+        "scheduleid": 2,
+        "docid": "3",
+        "title": "123",
+        "scheduledate": "2024-08-21",
+        "scheduletime": "14:22:00",
+        "nop": 11
+      }
+    ],
+    "specialties": [
+      {
+        "id": 1,
+        "sname": "Accident and emergency medicine"
+      },
+      {
+        "id": 2,
+        "sname": "Allergology"
+      },
+      {
+        "id": 3,
+        "sname": "Anaesthetics"
+      },
+      {
+        "id": 4,
+        "sname": "Cardiology"
+      },
+      {
+        "id": 5,
+        "sname": "Child psychiatry"
+      },
+      {
+        "id": 6,
+        "sname": "Dental, oral and maxillo-facial surgery"
+      },
+      {
+        "id": 7,
+        "sname": "Dermatology"
+      },
+      {
+        "id": 8,
+        "sname": "General surgery"
+      },
+      {
+        "id": 9,
+        "sname": "Infectious diseases"
+      },
+      {
+        "id": 10,
+        "sname": "Internal medicine"
+      },
+      {
+        "id": 11,
+        "sname": "Laboratory medicine"
+      },
+      {
+        "id": 12,
+        "sname": "Neurology"
+      },
+      {
+        "id": 13,
+        "sname": "Neurosurgery"
+      },
+      {
+        "id": 14,
+        "sname": "Obstetrics and gynecology"
+      },
+      {
+        "id": 15,
+        "sname": "Occupational medicine"
+      },
+      {
+        "id": 16,
+        "sname": "Ophthalmology"
+      },
+      {
+        "id": 17,
+        "sname": "Orthopaedics"
+      },
+      {
+        "id": 18,
+        "sname": "Paediatric surgery"
+      },
+      {
+        "id": 19,
+        "sname": "Paediatrics"
+      },
+      {
+        "id": 20,
+        "sname": "Pathology"
+      },
+      {
+        "id": 21,
+        "sname": "Pharmacology"
+      },
+      {
+        "id": 22,
+        "sname": "Physical medicine and rehabilitation"
+      },
+      {
+        "id": 23,
+        "sname": "Psychiatry"
+      },
+      {
+        "id": 24,
+        "sname": "Public health and Preventive Medicine"
+      },
+      {
+        "id": 25,
+        "sname": "Radiology"
+      },
+      {
+        "id": 26,
+        "sname": "Radiotherapy"
+      },
+      {
+        "id": 27,
+        "sname": "Respiratory medicine"
+      },
+      {
+        "id": 28,
+        "sname": "Rheumatology"
+      },
+      {
+        "id": 29,
+        "sname": "Stomatology"
+      },
+      {
+        "id": 30,
+        "sname": "Thoracic surgery"
+      }
+    ],
+    "webuser": [
+      {
+        "email": "admin@edoc.com",
+        "usertype": "a"
+      },
+      {
+        "email": "doctor@edoc.com",
+        "usertype": "d"
+      },
+      {
+        "email": "doctor1@edoc.com",
+        "usertype": "d"
+      },
+      {
+        "email": "it@edoc.com",
+        "usertype": "i"
+      },
+      {
+        "email": "patient4@edoc.com",
+        "usertype": "p"
+      },
+      {
+        "email": "patient41@edoc.com",
+        "usertype": "p"
+      },
+      {
+        "email": "patient4111@edoc.com",
+        "usertype": "p"
+      },
+      {
+        "email": "patient42@edoc.com",
+        "usertype": "p"
+      }
+    ]
+  }
+  

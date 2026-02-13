@@ -1,0 +1,282 @@
+
+
+ 
+        .sub-table{
+            animation: transitionIn-Y-bottom 0.5s;
+        }
+          
+        .floating-btn-container {
+        position: fixed;
+        bottom: 20px; 
+        right: 20px; 
+        z-index: 1000;
+        }
+
+        .floating-btn {
+            width: 100px; 
+            height: 100px; 
+            border-radius: 50%; 
+            background-color: #4CAF50; 
+            border: none; 
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); 
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: transform 0.2s ease, background-color 0.3s ease; 
+        }
+
+        .floating-btn img {
+            width: 50px; 
+            height: 50px;
+        }
+
+        .floating-btn:hover {
+            background-color: #45a049; 
+            transform: scale(1.1); 
+        }
+        
+/* Medical History Form Container */
+.medical-history-form {
+    width: 100%;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #fdfdfd;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    
+}
+
+/* Form Headings */
+.medical-history-form h3, 
+.medical-history-form h4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #4CAF50;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+/* Input Fields */
+.medical-history-form input[type="text"], 
+.medical-history-form input[type="date"] {
+    width: 98%; /* Longer fields */
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    display: block; /* Ensures proper alignment */
+}
+
+/* Table Styling */
+.medical-history-form table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 14px;
+}
+
+.medical-history-form table th, 
+.medical-history-form table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.medical-history-form table th {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+}
+
+.medical-history-form table td input {
+    width: 97%; /* Input fields inside table cells are longer */
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    text-align: left;
+}
+
+/* Buttons Styling */
+.medical-history-form button {
+    display: block;
+    width: 50%; /* Shorter button */
+    margin: 15px auto;
+    padding: 8px 20px; /* Adjusted padding for smaller button */
+    font-size: 14px; /* Slightly smaller text */
+    color: white;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 6px; /* Rounded corners */
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    text-align: center;
+}
+
+.medical-history-form button:hover {
+    background-color: #45a049;  
+}
+
+/* Submit Button */
+.medical-history-form input[type="submit"] {
+    display: block;
+    width: 50%; /* Shorter width for submit button */
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.medical-history-form input[type="submit"]:hover {
+    background-color: #45a049;
+}
+            /* General Modal Styles */
+            #medicalHistoryModal {
+            display: none;
+            background-color: rgba(0, 0, 0, 0.5);
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1000;
+        }
+
+        #medicalHistoryModal .modal-content {
+            background: white;
+            margin: 5% auto;
+            padding: 20px;
+            border-radius: 8px;
+            width: 70%;
+            max-height: 90%;
+            overflow: auto;
+            position: relative;
+        }
+
+        #medicalHistoryModal .modal-content h2 {
+            text-align: center;
+            color: green;
+        }
+
+        #medicalHistoryModal .modal-content h3 {
+            color: green;
+            margin-top: 30px;
+        }
+
+        #medicalHistoryModal .modal-content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        #medicalHistoryModal .modal-content th, 
+        #medicalHistoryModal .modal-content td {
+            border: 1px solid green;
+            padding: 8px;
+            text-align: left;
+        }
+
+        #medicalHistoryModal .modal-content th {
+            background-color: green;
+            color: white;
+            text-transform: uppercase;
+        }
+
+        #medicalHistoryModal .modal-content input {
+            width: 100%;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        #medicalHistoryModal .modal-content button {
+            background-color: green;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        #medicalHistoryModal .modal-content button:hover {
+            background-color: #45a049;
+        }
+        
+        #closeModal {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            cursor: pointer;
+            font-size: 24px;
+        }
+
+        .medical-history-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .medical-history-table th,
+        .medical-history-table td {
+            text-align: left;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+    
+        .medical-history-table th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+    
+        .medical-history-table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+    
+        input,
+        select {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+            font-size: 14px;
+        }
+        .small-btn {
+            background-color: #008000; /* Green background */
+            color: white; /* White text */
+            border: none; /* No border */
+            padding: 5px 10px; /* Reduce padding for smaller buttons */
+            font-size: 14px; /* Font size */
+            border-radius: 4px; /* Rounded corners */
+            display: inline-block; /* Keep inline */
+            text-align: center; /* Center-align text */
+            cursor: pointer; /* Pointer cursor on hover */
+            transition: background-color 0.3s ease; /* Smooth hover effect */
+            max-width: 120px; /* Restrict maximum width */
+            width: auto; /* Adjust width dynamically to fit content */
+            white-space: nowrap; /* Prevent text wrapping */
+            margin-right: -400px;
+            margin-left: 400px;
+            
+        }
+        
+        .small-btn:hover {
+            background-color: #006400; /* Slightly darker green on hover */
+        }
+        
+        
+
+        
+
+        

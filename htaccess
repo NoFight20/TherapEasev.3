@@ -1,0 +1,44 @@
+# Enable URL rewriting
+RewriteEngine On
+
+# Redirect to HTTPS
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+# Set default file with index.php first
+DirectoryIndex index.php index.html
+
+<Files "login.php">
+    Require all granted
+</Files>
+
+# Restrict access to admin, doctor, and pharmacy login pages (Apache 2.4 syntax)
+<FilesMatch "(admin|doctor|pharmacy)/index\.php$">
+    Require ip 136.158.34.100
+</FilesMatch>
+
+# Prevent access to sensitive files using Apache 2.4 directives
+<FilesMatch "(^\.|config\.php|firebaseConfig\.php|composer\.json|composer\.lock)">
+    Require all denied
+</FilesMatch>
+
+<FilesMatch "^(auto_archive|auto_remove_archive)\.php$">
+    Require all denied
+</FilesMatch>
+
+# Prevent directory listings
+Options -Indexes
+
+# Handle 404 errors with a custom page
+ErrorDocument 404 /404.html
+
+# Debug requested URI (commented out for now)
+# RewriteRule ^(.*)$ - [E=REQUESTED_URI:%{REQUEST_URI}]
+# Header always set X-Debug-Requested-Uri "%{REQUESTED_URI}e"
+
+# Enable CORS (Cross-Origin Resource Sharing)
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET, POST, OPTIONS, DELETE, PUT"
+    Header set Access-Control-Allow-Headers "Content-Type, Authorization"
+</IfModule>

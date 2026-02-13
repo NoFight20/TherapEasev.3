@@ -1,0 +1,10 @@
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OLtlJHW9-ZyARF1jkow - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","barangay":"Navarro","province":"CAVITE","type":"p","name":"Drexther Jann Manalo"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OMBXxdO6_-8SIItPQXh - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","barangay":"Navarro","province":"CAVITE","type":"p","name":"Drexther Jann Manalo"}
+

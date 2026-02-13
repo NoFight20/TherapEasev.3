@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Loading...</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, #4caf50, #81c784);
+      font-family: Arial, sans-serif;
+      color: white;
+    }
+
+    .loader {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .spinner {
+      width: 60px;
+      height: 60px;
+      border: 6px solid rgba(255,255,255,0.3);
+      border-top: 6px solid white;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin-left: 200px;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    .text {
+      margin-top: 15px;
+      font-size: 1.2rem;
+      letter-spacing: 1px;
+    }
+  </style>
+</head>
+<body>
+  <div class="loader">
+    <div class="spinner"></div>
+    <div class="text">Loading, please wait...</div>
+  </div>
+
+  <script>
+    // Redirect after 3 seconds (change to your desired page)
+    setTimeout(() => {
+      window.location.href = "your-page.html"; // replace with your page link
+    }, 3000);
+  </script>
+</body>
+</html>

@@ -1,0 +1,429 @@
+Raw Data:
+{"extractedText":"First Name: Christian Gabriel Last Name: Castro Gender: Male Age: 18 Birthday: 04/20/2001 City: Gen Tri Barangay: N av arro Province: Cavite Civil Status: Div orced Email: pati ent@edoc.com Phone Number: 0956704274 6"}
+
+Extracted Text:
+First Name: Christian Gabriel Last Name: Castro Gender: Male Age: 18 Birthday: 04/20/2001 City: Gen Tri Barangay: N av arro Province: Cavite Civil Status: Div orced Email: pati ent@edoc.com Phone Number: 0956704274 6
+
+Raw Data:
+{"extractedText":"First Name: Christian Gabriel Last Name: Castro Gender: Male Age: 18 Birthday: 04/20/2001 City: Gen Tri Barangay: N av arro Province: Cavite Civil Status: Div orced Email: pati ent@edoc.com Phone Number: 0956704274 6"}
+
+Extracted Text:
+First Name: Christian Gabriel Last Name: Castro Gender: Male Age: 18 Birthday: 04/20/2001 City: Gen Tri Barangay: N av arro Province: Cavite Civil Status: Div orced Email: pati ent@edoc.com Phone Number: 0956704274 6
+
+Raw Data:
+{"extractedText":"First Name: Christian Gabriel Last Name: Castro Gender: Male Age: 18 Birthday: 04/20/2001 City: Gen Tri Barangay: N av arro Province: Cavite Civil Status: Div orced Email: pati ent@edoc.com Phone Number: 0956704274 6"}
+
+Extracted Text:
+First Name: Christian Gabriel Last Name: Castro Gender: Male Age: 18 Birthday: 04/20/2001 City: Gen Tri Barangay: N av arro Province: Cavite Civil Status: Div orced Email: pati ent@edoc.com Phone Number: 0956704274 6
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION NAME : (Last Name) ( First Name) (Middle Name) AGE : SEX: CIVIL STATUS: BIRTHDAY: CONTACT NUMBER: ADDRESS: DOCTOR’S NAME:"}
+
+Extracted Text:
+G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION NAME : (Last Name) ( First Name) (Middle Name) AGE : SEX: CIVIL STATUS: BIRTHDAY: CONTACT NUMBER: ADDRESS: DOCTOR’S NAME:
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION NAME : (Last Name) ( First Name) (Middle Name) AGE : SEX: CIVIL STATUS: BIRTHDAY: CONTACT NUMBER: ADDRESS: DOCTOR’S NAME:"}
+
+Extracted Text:
+G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION NAME : (Last Name) ( First Name) (Middle Name) AGE : SEX: CIVIL STATUS: BIRTHDAY: CONTACT NUMBER: ADDRESS: DOCTOR’S NAME:
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Drexther Jann FIRST NAME: Manalo MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Extracted Text:
+G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Drexther Jann FIRST NAME: Manalo MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Drexther Jann FIRST NAME: Manalo MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Extracted Text:
+G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Drexther Jann FIRST NAME: Manalo MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE
+
+Raw Data:
+{"extractedText":"First Name: Christian Gabriel Last Name: Castro Gender: Male Age: 18 Birthday: 04/20/2001 City: Gen Tri Barangay: N av arro Province: Cavite Civil Status: Div orced Email: pati ent@edoc.com Phone Number: 0956704274 6"}
+
+Extracted Text:
+First Name: Christian Gabriel Last Name: Castro Gender: Male Age: 18 Birthday: 04/20/2001 City: Gen Tri Barangay: N av arro Province: Cavite Civil Status: Div orced Email: pati ent@edoc.com Phone Number: 0956704274 6
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Drexther Jann FIRST NAME: Manalo MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"text":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Drexther Jann FIRST NAME: Manalo MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04\/20\/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR\u2019S NAME: GABE","timestamp":"2025-03-06 06:03:55"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Drexther Jann FIRST NAME: Manalo MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"firstName":"Manalo MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04\/20\/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR\u2019S NAME: GABE","birthday":"04\/20\/2002","email":"patient20@edoc.com","civilStatus":"Singel BIRTHDAY: 04\/20\/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR\u2019S NAME: GABE","barangay":"Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR\u2019S NAME: GABE","province":"CAVITE EMAIL: patient20@edoc.com DOCTOR\u2019S NAME: GABE"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Drexther Jann FIRST NAME: Manalo MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"firstName":"Manalo MIDDLE NAME","middleName":"Espejo AGE","age":"24","gender":"Male","birthday":"04\/20\/2002","email":"patient20@edoc.com","phoneNumber":"09876543211","civilStatus":"Singel BIRTHDAY","barangay":"Navarro PROVINCE","city":"Gen Tri BARANGAY","province":"CAVITE EMAIL"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Drexther Jann FIRST NAME: Manalo MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"firstName":"Manalo MIDDLE NAME","middleName":"Espejo AGE","age":"24","gender":"Male","birthday":"04\/20\/2002","email":"patient20@edoc.com","phoneNumber":"09876543211","civilStatus":"Singel","barangay":"Navarro","province":"CAVITE"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"firstName":"Drexther Jann MIDDLE NAME","middleName":"Espejo AGE","age":"24","gender":"Male","birthday":"04\/20\/2002","email":"patient20@edoc.com","phoneNumber":"09876543211","civilStatus":"Singel","barangay":"Navarro","province":"CAVITE"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"firstName":"Drexther Jann","age":"24","gender":"Male","birthday":"04\/20\/2002","email":"patient20@edoc.com","phoneNumber":"09876543211","civilStatus":"Singel","barangay":"Navarro","province":"CAVITE"}
+
+Raw Data:
+{"extractedText":"First Name: Christian Gabriel Last Name: Castro Gender: Male Age: 18 Birthday: 04/20/2001 City: Gen Tri Barangay: N av arro Province: Cavite Civil Status: Div orced Email: pati ent@edoc.com Phone Number: 0956704274 6"}
+
+Stored in Firebase: {"firstName":"Christian Gabriel","age":"18","gender":"Male","birthday":"04\/20\/2001","phoneNumber":"0956704274","barangay":"N av arro"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"fname":"Drexther Jann","age":"24","gender":"Male","dob":"04\/20\/2002","email":"patient20@edoc.com","tele":"09876543211","civil_status":"Singel","barangay":"Navarro","province":"CAVITE"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"Manalo FIRST NAME","firstName":"Drexther Jann MIDDLE NAME","middleName":"Espejo AGE","age":"24","gender":"Male","birthday":"04\/20\/2002","email":"patient20@edoc.com","phoneNumber":"09876543211","civilStatus":"Singel BIRTHDAY","barangay":"Navarro PROVINCE","city":"Gen Tri BARANGAY","province":"CAVITE EMAIL"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"Manalo","firstName":"Drexther Jann","middleName":"Espejo","age":"24","gender":"Male","birthday":"04\/20\/2002","phoneNumber":"09876543211","civilStatus":"Singel","barangay":"Navarro","province":"CAVITE"}
+
+Raw Data:
+{"extractedText":"First Name: Christian Gabriel Last Name: Castro Gender: Male Age: 18 Birthday: 04/20/2001 City: Gen Tri Barangay: N av arro Province: Cavite Civil Status: Div orced Email: pati ent@edoc.com Phone Number: 0956704274 6"}
+
+Stored in Firebase: {"gender":"Male","barangay":"N av arro"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME : M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY : G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E : CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"M analo","firstName":"Dr exther Jann","middleName":"Espejo","age":"24","gender":"Male","phoneNumber":"09876543211","civilStatus":"Singel"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME : M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY : G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E : CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"M analo","firstName":"Dr exther Jann","middleName":"Espejo","age":"24","gender":"Male","phoneNumber":"09876543211","civilStatus":"Singel"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME : M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY : G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E : CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"M analo","firstName":"Dr exther Jann","middleName":"Espejo","age":"24","gender":"Male","phoneNumber":"09876543211","civilStatus":"Singel"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME : M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY : G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E : CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME : M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY : G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E : CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"M analo","firstName":"Dr exther Jann","middleName":"Espejo","age":"24","gender":"Male","phoneNumber":"09876543211","civilStatus":"Singel"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"M analo","firstName":"Dr exther Jann","middleName":"Espejo","age":"24","gender":"Male","phoneNumber":"09876543211","civilStatus":"Singel"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : FIRST NAME: MIDDLE NAME: AGE : SEX: CIVIL STATUS: BIRTHDAY: CONTACT NUMBER: ADDRESS: DOCTOR’S NAME:"}
+
+Stored in Firebase: {"lastName":"","firstName":"","middleName":"","civilStatus":""}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : FIRST NAME: MIDDLE NAME: AGE : SEX: CIVIL STATUS: BIRTHDAY: CONTACT NUMBER: ADDRESS: DOCTOR’S NAME:"}
+
+Stored in Firebase: {"lastName":"","firstName":"","middleName":"","civilStatus":""}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : FIRST NAME: MIDDLE NAME: AGE : SEX: CIVIL STATUS: BIRTHDAY: CONTACT NUMBER: ADDRESS: DOCTOR’S NAME:"}
+
+Stored in Firebase: {"lastName":"","firstName":"","middleName":"","civilStatus":""}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : FIRST NAME: MIDDLE NAME: AGE : SEX: CIVIL STATUS: BIRTHDAY: CONTACT NUMBER: ADDRESS: DOCTOR’S NAME:"}
+
+Stored in Firebase: {"lastName":"","firstName":"","middleName":"","civilStatus":""}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"Manalo","firstName":"Drexther Jann","middleName":"Espejo","age":"24","gender":"Male","birthday":"04\/20\/2002","phoneNumber":"09876543211","civilStatus":"Singel","barangay":"Navarro","province":"CAVITE"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"Manalo","firstName":"Drexther Jann","middleName":"Espejo","age":"24","gender":"Male","birthday":"04\/20\/2002","phoneNumber":"09876543211","civilStatus":"Singel","barangay":"Navarro","province":"CAVITE"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"M analo","firstName":"Dr exther Jann","middleName":"Espejo","age":"24","gender":"Male","phoneNumber":"09876543211","civilStatus":"Singel"}
+
+Raw Data:
+{"extractedText":"GE NT RI ME DPATIENTINFORMATIONLASTNAME: ManaloFIRSTNAME: DrextherJannMIDDLENAME: EspejoAGE: 24SEX: MaleCIVILSTATUS: SingelBIRTHDAY: 04/20/20 02CONTACTNUMBER: 09876543211CITY: GenT riBARANGAY: NavarroCavite'sleadingmedicalhospital, proudlyservingfor11yearswithexceptionalhealthcareservices. PROVINCE: CAVITEEMAIL: patient20@edoc.comDOCTOR’SNAME: GABE"}
+
+Stored in Firebase: {"age":"24","province":"CAVITE"}
+
+Raw Data:
+{"extractedText":"GE NT RI ME DCavite'sleadingmedicalhospital, proudlyservingfor11yearswithexceptionalhealthcareservices. PATIENTINFORMATIONLASTNAME: ManaloFIRSTNAME: DrextherJannMIDDLENAME: EspejoAGE: 24SEX: MaleCIVILSTATUS: SingelBIRTHDAY: 04/20/2002CONTACTNUMBER: 09876543211CITY: GenTriBARANGAY: NavarroPROVINCE: CAVITEEMAIL: patient20@edoc.comDOCTOR’SNAME: GABE"}
+
+Stored in Firebase: {"age":"24","barangay":"Navarro","province":"CAVITE"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"Manalo","firstName":"Drexther Jann","middleName":"Espejo","age":"24","gender":"Male","birthday":"04\/20\/2002","phoneNumber":"09876543211","civilStatus":"Singel","barangay":"Navarro","province":"CAVITE"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"M analo","firstName":"Dr exther Jann","middleName":"Espejo","age":"24","gender":"Male","phoneNumber":"09876543211","civilStatus":"Singel"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"M analo","firstName":"Dr exther Jann","middleName":"Espejo","age":"24","gender":"Male","phoneNumber":"09876543211","civilStatus":"Singel"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase: {"lastName":"M analo","firstName":"Dr exther Jann","middleName":"Espejo","age":"24","gender":"Male","phoneNumber":"09876543211","civilStatus":"Singel"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OLft_aqEEXg7qKpRIPC - Data: {"lastName":"M analo","firstName":"Dr exther Jann","middleName":"Espejo","age":"24","gender":"Male","phoneNumber":"09876543211","civilStatus":"Singel"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OLfu4Wh1lVZGwJxvDXs - Data: {"lname":"M analo","fname":"Dr exther Jann","mname":"Espejo","age":"24","gender":"Male","phoneNumber":"09876543211","civilStatus":"Singel"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OLfusPSHRy_jCg7DPLH - Data: {"lname":"M analo","fname":"Dr exther Jann","mname":"Espejo","age":"24","gender":"Male","tele":"09876543211","civil_status":"Singel","type":"p","name":"Dr exther Jann M analo"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OLfwGCx13nVB9uWjPAX - Data: {"lname":"M analo","fname":"Dr exther Jann","mname":"Espejo","age":"24","gender":"Male","tele":"09876543211","civil_status":"Singel","type":"p","name":"Dr exther Jann M analo"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OMCqs3Zr7xXuftz6LHt - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","barangay":"Navarro","province":"CAVITE","type":"p","name":"Drexther Jann Manalo","admin_specialty":"Radiology"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OMCrKEUGXsQcMDTSPs1 - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","barangay":"Navarro","province":"CAVITE","type":"p","name":"Drexther Jann Manalo","admin_specialty":"Radiology"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OMCrVCPIr5yBErOXlmq - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","barangay":"Navarro","province":"CAVITE","type":"p","name":"Drexther Jann Manalo","admin_specialty":"Radiology"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OMCrczt2r09JMFoNWQL - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","barangay":"Navarro","province":"CAVITE","type":"p","name":"Drexther Jann Manalo","specialty":"Radiology"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OMCrxTX8bsSWxDg4b5c - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","barangay":"Navarro","province":"CAVITE","type":"p","name":"Drexther Jann Manalo","sname":"Radiology"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OMCsSdFnbVQeiJz41P4 - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","barangay":"Navarro","province":"CAVITE","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":""}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OMCsbemmmBNGuIt3eK7 - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","barangay":"Navarro","province":"CAVITE","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -ORFxRZBWe4O6iNYC-pM - Data: {"lname":"M analo","fname":"Dr exther Jann","mname":"Espejo","age":"24","gender":"Male","tele":"09876543211","civil_status":"Singel","type":"p","name":"Dr exther Jann M analo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -ORFxiuPpDOhdVL0Vyi9 - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","barangay":"Navarro","province":"CAVITE","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -ORFy_k79WfVGy7gVyu1 - Data: {"lname":"M analo","fname":"Dr exther Jann","mname":"Espejo","age":"24","gender":"Male","tele":"09876543211","civil_status":"Singel","type":"p","name":"Dr exther Jann M analo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -ORFyvgKI2cXWrLllpOg - Data: {"lname":"M analo","fname":"Dr exther Jann","mname":"Espejo","age":"24","gender":"Male","tele":"09876543211","civil_status":"Singel","type":"p","name":"Dr exther Jann M analo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OYAvgRaTRKD3t_5tJ48 - Data: {"lname":"M analo","fname":"Dr exther Jann","mname":"Espejo","age":"24","gender":"Male","tele":"09876543211","civil_status":"Singel","type":"p","name":"Dr exther Jann M analo","sname":"Family Medicine","specialty":"-OM5ntfcF5u7mElqZOGx"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OYKjedITP3uomZmpNUy - Data: {"lname":"M analo","fname":"Dr exther Jann","mname":"Espejo","age":"24","gender":"Male","tele":"09876543211","civil_status":"Singel","type":"p","name":"Dr exther Jann M analo","sname":"Ear, Nose, Throat (ENT)","specialty":"-OM5ngSkX29h9LhBhiG7"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Manalo FIRST NAME: Drexther JannMIDDLE NAME: Espejo AGE : 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY : Gen Tri BARANGAY: NavarroPROVINCE: CAVITEEMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OYKrglMAJSdEv0AmnUX - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","barangay":"Navarro","province":"CAVITE","type":"p","name":"Drexther Jann Manalo","sname":"Ear, Nose, Throat (ENT)","specialty":"-OM5ngSkX29h9LhBhiG7"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Jackson FIRST NAME: Michael MIDDLE NAME: Jordan AGE : 55 SEX: Male CIVIL STATUS: Married BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09875642123 CITY : wessst BARANGAY: NavarroPROVINCE: CAVITE"}
+
+Stored in Firebase with ID: -OYLN29mMA6EY8iYYWwO - Data: {"lname":"Jackson","fname":"Michael","mname":"Jordan","age":"55","gender":"Male","dob":"2002-04-20","tele":"09875642123","civil_status":"Married","barangay":"Navarro","province":"CAVITE","type":"p","name":"Michael Jackson","sname":"Ear, Nose, Throat (ENT)","specialty":"-OM5ngSkX29h9LhBhiG7"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Jackson FIRST NAME: Michael MIDDLE NAME: Jordan AGE : 55 SEX: Male CIVIL STATUS: Married BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09875642123 CITY : wessst BARANGAY: NavarroPROVINCE: CAVITE"}
+
+Stored in Firebase with ID: -OYLNmttk637-xdi2mGf - Data: {"lname":"Jackson","fname":"Michael","mname":"Jordan","age":"55","gender":"Male","dob":"2002-04-20","tele":"09875642123","civil_status":"Married","barangay":"Navarro","province":"CAVITE","type":"p","name":"Michael Jackson","sname":"Ear, Nose, Throat (ENT)","specialty":"-OM5ngSkX29h9LhBhiG7"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Jackson FIRST NAME: Michael MIDDLE NAME: Jordan AGE : 55 SEX: Male CIVIL STATUS: Married BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09875642123 CITY : wessst BARANGAY: NavarroPROVINCE: CAVITE"}
+
+Stored in Firebase with ID: -OYLOOuRFkC8Xi5BHRfj - Data: {"lname":"Jackson","fname":"Michael","mname":"Jordan","age":"55","gender":"Male","dob":"2002-04-20","tele":"09875642123","civil_status":"Married","barangay":"Navarro","province":"CAVITE","type":"p","name":"Michael Jackson","sname":"Ear, Nose, Throat (ENT)","specialty":"-OM5ngSkX29h9LhBhiG7"}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0e8t8kLhKZcJDV9IZ - Data: {"lname":"M analo","fname":"Dr exther Jann","mname":"Espejo","age":"24","gender":"Male","tele":"09876543211","civil_status":"Singel","type":"p","name":"Dr exther Jann M analo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"ZCDICAN &% GENTRIMED g | .‘ o Cavite's leading medical hospital, proudly serving for 11 A Sy . . . O D\"\\ \\§J years with exceptional healthcare services. PATIENT INFORMATION LAST NAME: Manalo FIRST NAME: Drexther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09876543211 CITY: Gen Tri BARANGAY: Navarro PROVINCE: CAVITE EMAIL: patient20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0gIe5EfgHhnSUHcQN - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","barangay":"Navarro","province":"CAVITE","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0gV_2LideK3pOj3mY - Data: {"lname":"M analo","fname":"Dr exther Jann","mname":"Espejo","age":"24","gender":"Male","tele":"09876543211","civil_status":"Singel","type":"p","name":"Dr exther Jann M analo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. PATIENT INFORMATION LAST NAME : Jackson FIRST NAME: Michael MIDDLE NAME: Jordan AGE : 55 SEX: Male CIVIL STATUS: Married BIRTHDAY: 04/20/2002 CONTACT NUMBER: 09875642123 CITY : wessst BARANGAY: NavarroPROVINCE: CAVITE"}
+
+Stored in Firebase with ID: -O_0hzEWBMBUdYJUEk4W - Data: {"lname":"Jackson","fname":"Michael","mname":"Jordan","age":"55","gender":"Male","dob":"2002-04-20","tele":"09875642123","civil_status":"Married","barangay":"Navarro","province":"CAVITE","type":"p","name":"Michael Jackson","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0jZtlRxPDSOnGzczl - Data: {"lname":"M analo","fname":"Dr exther Jann","mname":"Espejo","age":"24","gender":"Male","tele":"09876543211","civil_status":"Singel","type":"p","name":"Dr exther Jann M analo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D PATIENT INFORMATION LAST NAME: M analo FIRST NAME: Dr exther Jann MIDDLE NAME: Espejo AGE: 24 SEX: Male CIVIL STATUS: Singel BIRTHDAY: 04 /20/2 0 02 CONTACT NUMBER: 09876543211 CITY: G en T ri BARANGAY: Navarro Cavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services. P ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0mIRoGDTVjO-9lLLb - Data: {"lname":"M analo","fname":"Dr exther Jann","mname":"Espejo","age":"24","gender":"Male","tele":"09876543211","civil_status":"Singel","type":"p","name":"Dr exther Jann M analo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\n=\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSPITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0mdAcQu8cn4VioW7F - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\n=\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSPITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0mj_mJmWAet3oSnrq - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\n=\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSPITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0o7v87DEbJ0UVcdrR - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\n=\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSPITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0q0XYD8-_BDn-FfG8 - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\n=\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSPITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0sPStysGgusjpXBzF - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D\n\nCavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services.\n\nPATIENT INFORMATION\n\nLAST NAME: Jackson\n\nFIRST NAME: Michael MIDDLE NAME: Jordan\n\nAGE: 55\n\nSEX: Male\n\nCIVIL STATUS: Married\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09875642123\n\nCITY: wessst\n\nBARANGAY: NavarroPROVINCE: CAVITE"}
+
+Stored in Firebase with ID: -O_0sk0diE-NgCD2xJps - Data: {"lname":"Jackson","fname":"Michael","mname":"Jordan","age":"55","gender":"Male","dob":"2002-04-20","tele":"09875642123","civil_status":"Married","barangay":"Navarro","province":"CAVITE","type":"p","name":"Michael Jackson","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\n=\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSPITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0t9JKDNyix7SwLauR - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\n=\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSPITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0uDZguadt_Dmu80wL - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D\n\nCavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services.\n\nPATIENT INFORMATION\n\nLAST NAME: Jackson\n\nFIRST NAME: Michael MIDDLE NAME: Jordan\n\nAGE: 55\n\nSEX: Male\n\nCIVIL STATUS: Married\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09875642123\n\nCITY: wessst\n\nBARANGAY: NavarroPROVINCE: CAVITE"}
+
+Stored in Firebase with ID: -O_0uOeW7D3jpGYo-ymS - Data: {"lname":"Jackson","fname":"Michael","mname":"Jordan","age":"55","gender":"Male","dob":"2002-04-20","tele":"09875642123","civil_status":"Married","barangay":"Navarro","province":"CAVITE","type":"p","name":"Michael Jackson","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\n=\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSPITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0v8mx2X2e4BQe-oe8 - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D\n\nCavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services.\n\nPATIENT INFORMATION\n\nLAST NAME: Jackson\n\nFIRST NAME: Michael MIDDLE NAME: Jordan\n\nAGE: 55\n\nSEX: Male\n\nCIVIL STATUS: Married\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09875642123\n\nCITY: wessst\n\nBARANGAY: NavarroPROVINCE: CAVITE"}
+
+Stored in Firebase with ID: -O_0vAqkoDCFz426rFBc - Data: {"lname":"Jackson","fname":"Michael","mname":"Jordan","age":"55","gender":"Male","dob":"2002-04-20","tele":"09875642123","civil_status":"Married","barangay":"Navarro","province":"CAVITE","type":"p","name":"Michael Jackson","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\n=\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSPITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0wUDJajWke_5s1kNM - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D\n\nCavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services.\n\nPATIENT INFORMATION\n\nLAST NAME: Jackson\n\nFIRST NAME: Michael MIDDLE NAME: Jordan\n\nAGE: 55\n\nSEX: Male\n\nCIVIL STATUS: Married\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09875642123\n\nCITY: wessst\n\nBARANGAY: NavarroPROVINCE: CAVITE"}
+
+Stored in Firebase with ID: -O_0xKtIwZc8INxtBB6n - Data: {"lname":"Jackson","fname":"Michael","mname":"Jordan","age":"55","gender":"Male","dob":"2002-04-20","tele":"09875642123","civil_status":"Married","barangay":"Navarro","province":"CAVITE","type":"p","name":"Michael Jackson","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\n=\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSPITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0xzM-nLKwvEjsg0Sx - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\n=\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSPITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_0zKqy3vmRpwV6QEe_ - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"G E N T R I M E D\n\nCavite's leading medical hospital, proudly serving for 11 years with exceptional healthcare services.\n\nPATIENT INFORMATION\n\nLAST NAME: Jackson\n\nFIRST NAME: Michael MIDDLE NAME: Jordan\n\nAGE: 55\n\nSEX: Male\n\nCIVIL STATUS: Married\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09875642123\n\nCITY: wessst\n\nBARANGAY: NavarroPROVINCE: CAVITE"}
+
+Stored in Firebase with ID: -O_0zk5k1IDOdVLjxUR6 - Data: {"lname":"Jackson","fname":"Michael","mname":"Jordan","age":"55","gender":"Male","dob":"2002-04-20","tele":"09875642123","civil_status":"Married","barangay":"Navarro","province":"CAVITE","type":"p","name":"Michael Jackson","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\n=\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSPITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -O_16d4kxudKB4qStuhC - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Radiology","specialty":24}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\nA\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSEITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OfTymLK6aafberIkTTO - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Ear, Nose, Throat (ENT)","specialty":"-OM5ngSkX29h9LhBhiG7"}
+
+Raw Data:
+{"extractedText":"&% GENTRIMED\nA\n7 e\n% ‘J o) Cavite's leading medical hospital, proudly serving for 11\n%) § years with exceptional healthcare services.\nOSEITRS\nPATIENT INFORMATION\n\nLAST NAME: Manalo\n\nFIRST NAME: Drexther Jann\n\nMIDDLE NAME: Espejo\n\nAGE: 24\n\nSEX: Male\n\nCIVIL STATUS: Singel\n\nBIRTHDAY: 04/20/2002\n\nCONTACT NUMBER: 09876543211\n\nCITY: Gen Tri\n\nBARANGAY: Navarro\nP ROVINC E: CAVITE EMAIL: patien t20@edoc.com DOCTOR’S NAME: GABE"}
+
+Stored in Firebase with ID: -OfVf6j7O9X0iQFlTXKK - Data: {"lname":"Manalo","fname":"Drexther Jann","mname":"Espejo","age":"24","gender":"Male","dob":"2002-04-20","tele":"09876543211","civil_status":"Singel","type":"p","name":"Drexther Jann Manalo","sname":"Cardio Pulmonology","specialty":"-OM0wIiCOocT-j6sGTJi"}
+

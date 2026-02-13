@@ -1,0 +1,405 @@
+.body{
+    flex-wrap: wrap; 
+}
+.popup{
+    animation: transitionIn-Y-bottom 0.5s;
+}
+.sub-table{
+    animation: transitionIn-Y-bottom 0.5s;
+}
+.popup .close {
+    font-size: 30px;
+    color: #000;
+    text-decoration: none;
+}
+.overlay {
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1000;
+}
+.overlay .popup {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+/* Mobile Header */
+.mobile-header {
+    display: none;
+    background-color: lightgreen; 
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: 18px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1002;
+}
+/* Hamburger Menu */
+#hamburger-menu {
+    display: none;
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    z-index: 1003;
+    cursor: pointer;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#hamburger-menu .bar {
+    width: 100%;
+    height: 3px;
+    background-color: #333;
+    transition: all 0.4s ease;
+}
+
+#hamburger-menu.active .bar:nth-child(1) {
+    transform: rotate(-45deg) translate(-5px, 5px);
+}
+
+#hamburger-menu.active .bar:nth-child(2) {
+    opacity: 0;
+}
+
+#hamburger-menu.active .bar:nth-child(3) {
+    transform: rotate(45deg) translate(-5px, -5px);
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .tab-buttons {
+    flex-direction: row; 
+    overflow-x: auto;
+    white-space: nowrap;
+}
+.tab-button {
+    flex: none;
+}
+    #hamburger-menu {
+        display: flex;
+    }
+
+    .mobile-header {
+        display: block;
+    }
+
+    .menu {
+        display: none;
+        position: fixed;
+        left: -250px;
+        top: 50px; 
+        width: 250px;
+        height: 100%;
+        background: lightgreen;
+        transition: left 0.3s ease;
+        z-index: 1001;
+    }
+
+    .menu.active {
+        display: block;
+        left: 0;
+    }
+
+    .dash-body {
+        margin-top: 50px; 
+        margin-left: 0;
+        transition: margin-left 0.3s ease;
+    }
+
+    .menu.active + .dash-body {
+        margin-left: 250px;
+    }
+}
+/* Parent container */
+.container2 {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    box-sizing: border-box;
+}
+
+
+/* Child container with forms */
+.background-image-forms {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 20px; 
+}
+
+
+.background-image-forms, .content-manager {
+flex: 1; 
+max-width: 45%; 
+padding: 50px 0 50px 350px;
+}
+
+
+/* Form container styling */
+.form-container {
+    min-width: 230px;
+    max-width: 280px;
+    padding: 15px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column; /* Align content inside each form */
+    align-items: center; /* Center content horizontally inside the form */
+    justify-content: center;
+}
+
+/* Form labels and inputs */
+.form-container h3 {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.form-container input[type="file"] {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.form-container button {
+    background-color: #4CAF50;  
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%; /* Full width of the container */
+}
+
+/* Button hover effect */
+.form-container button:hover {
+    background-color: #45a049;
+}
+
+/* Responsive adjustments for smaller screens */
+@media screen and (max-width: 768px) {
+    .background-image-forms {
+        flex-direction: column; 
+        gap: 10px;  
+    }
+
+    .form-container {
+        margin-right: 0;  
+        max-width: 100%;  
+    }
+}
+/* Parent container for the entire tab */
+#manage-content {
+    display: flex;
+    flex-direction: column; /* Stack the heading and form vertically */
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+
+    box-sizing: border-box;
+}
+
+/* Form container */
+.manage-content-form {
+    display: flex;
+    flex-direction: column; /* Stack rows vertically */
+    align-items: center; /* Center horizontally */
+    gap: 20px; /* Space between the rows */
+    width: 100%;
+    max-width: 1200px;
+}
+
+/* Row container for form groups */
+.form-row {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: flex-start; /* Align to the top */
+    gap: 20px; /* Space between form groups */
+    flex-wrap: nowrap; /* Do not wrap to the next row */
+}
+
+/* Individual form group */
+.form-group {
+    flex: 1; /* Allow form groups to grow equally */
+    min-width: 250px; /* Minimum width for each form group */
+    max-width: 300px; /* Maximum width for alignment */
+    display: flex;
+    flex-direction: column; /* Stack label and textarea inside */
+    gap: 10px; /* Space between label and textarea */
+}
+
+.switch-buttons {
+display: flex;
+justify-content: flex-start; 
+gap: 10px;
+flex-direction: column; 
+margin-top: 20px;
+padding-left: 85px;
+margin-top: 15px; 
+}
+
+.switch-buttons {
+display: flex;
+flex-direction: column;
+align-items: center; 
+margin-top: 10px;
+}
+.switch-buttons button {
+width: 80%; 
+margin: 5px 0; 
+background-color: #4CAF50; 
+color: white;
+border: none;
+padding: 10px 20px;
+font-size: 16px;
+border-radius: 5px;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+
+.switch-buttons button:hover {
+background-color: #45a049;
+}
+
+/* General container styling */
+.content-manager {
+max-width: 600px;
+margin: 20px auto;
+padding: 30px;
+background-color: #f9f9f9;
+border-radius: 10px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Header section styling */
+.header-section {
+display: flex;
+justify-content: space-between;
+align-items: center;
+max-width: 600px;
+margin: 0 auto 20px auto;
+padding: 0 15px;
+}
+
+.header-section label {
+font-size: 18px;
+font-weight: bold;
+color: #333;
+}
+
+.header-section h2 {
+font-size: 20px;
+color: #007BFF;
+margin: 0;
+}
+
+/* Form group styles */
+.form-group {
+display: flex;
+flex-direction: column;
+margin-bottom: 20px;
+}
+
+.form-group label {
+font-weight: bold;
+margin-bottom: 5px;
+color: #555;
+}
+
+.form-group input[type="file"] {
+padding: 10px;
+font-size: 14px;
+border: 1px solid #ddd;
+border-radius: 5px;
+}
+
+.form-group textarea {
+padding: 10px;
+font-size: 14px;
+border: 1px solid #ddd;
+border-radius: 5px;
+resize: vertical;
+}
+
+/* Save button styling */
+.save-button {
+background-color: #4CAF50;
+color: white;
+padding: 12px;
+border: none;
+border-radius: 5px;
+font-size: 16px;
+cursor: pointer;
+transition: background-color 0.3s ease;
+display: block;
+width: 100%;
+margin-top: 20px;
+}
+
+.save-button:hover {
+background-color: #45a049;
+}
+/* Tab Styles */
+.tab-container {
+width: 100%;
+}
+
+/* Move the tabs to the top */
+.tab-buttons {
+
+border-bottom: 2px solid #ccc;
+margin-bottom: 20px;
+justify-content: flex-start; /* Align tabs to the left */
+background-color: #f1f1f1;
+
+top: 0;
+z-index: 10;
+}
+
+.tab-button {
+background-color: #f1f1f1;
+border: none;
+padding: 10px 20px;
+cursor: pointer;
+outline: none;
+transition: background-color 0.3s ease;
+flex: 1; /* Equal width for buttons */
+text-align: center;
+font-weight: bold;
+}
+.tab-button.active {
+background-color: #4CAF50; /* Active tab color */
+color: white;
+}
+
+.tab-button:hover {
+background-color: #ddd;
+}
+
+/* Tab content styling */
+.tab-content {
+display: none;
+}
+
+.tab-content.active {
+display: block;
+}

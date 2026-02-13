@@ -1,0 +1,75 @@
+body {
+    margin: 7%;
+    background-color: #E6FFE6; /* Light green background */
+    background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(0, 0, 0, 0.3)), url(../img/GentriMed.jpg);
+    background-size: cover; /* Cover the entire background */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-position: center; /* Center the image */
+    position: relative; /* Make sure the pseudo-element is positioned relative to the body */
+}
+
+
+.container {
+    width: 45%;
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent white background */
+    border: 1px solid rgba(230, 255, 230, 0.7); /* Light green see-through border */
+    border-radius: 8px;
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px; /* Added padding for spacing */
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    animation: transitionIn-Y-over 0.5s;
+}
+
+td {
+    text-align: center;
+}
+
+.header-text {
+    font-weight: 600;
+    font-size: 30px;
+    letter-spacing: -1px;
+    margin-bottom: 10px;
+    color: #32CD32; /* Lime green */
+}
+
+.sub-text {
+    font-size: 15px;
+    color: #006400; /* Dark green */
+}
+
+.form-label {
+    color: #228B22; /* Forest green */
+    text-align: left;
+    font-size: 14px;
+}
+
+.label-td {
+    text-align: left;
+    padding-top: 10px;
+}
+
+.hover-link1 {
+    font-weight: bold;
+    color: #3CB371; /* Medium sea green */
+}
+
+.hover-link1:hover {
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
+.login-btn {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+    background-color: #32CD32; /* Lime green button */
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login-btn:hover {
+    background-color: #3CB371; /* Darker shade on hover */
+}
